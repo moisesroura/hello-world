@@ -6,4 +6,4 @@
 ## niv.2
 
 
-* [awesome-faunadb] (https://github.com/n400/awesome-faunadb/blob/master/README.md)
+* [awesome-faunadb] (https://github.com/n400/awesome-faunadb/blob/master/README.md) -bla bla ....
