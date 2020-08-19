@@ -1,7 +1,13 @@
 # My Resources
 
+- [GraphQL](#GraphQL)
 - [faunadb](#faunadb)
 
+## GraphQL
+* [Official Page](https://graphql.org)
+* #### tutorials
+    - [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+    
 ## faunadb
 * [awesome-faunadb](https://github.com/n400/awesome-faunadb/blob/master/README.md) -Curated list of FaunaDB
 * [fwitter](https://github.com/fauna-brecht/fwitter) -'real-world' app example
