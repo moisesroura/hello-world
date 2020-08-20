@@ -14,6 +14,9 @@
     - [01. fwitter](https://github.com/fauna-brecht/fwitter) - 'real-world' app example
     - [02](https://dev.to/kjmczk/crud-app-with-next-js-faunadb-and-graphql-32ml) - Next.js, FaunaDB and GraphQL [[git]](https://github.com/kjmczk/next-fauna-graphql-crud)
     - [03](https://owlypixel.com/build-serverless-writing-pad) - Build Your Own Serverless Writing Pad with Gatsby, Netlify, and FaunaDB [[git]](https://github.com/owlypixel/serverless-writing-pad-tutorial)
+    - [04](https://www.freecodecamp.org/news/how-to-use-faunadb/) - How to work with FaunaDB + GraphQL
+
+    
     
     
 * #### videos
